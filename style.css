@@ -1,0 +1,2 @@
+body{font:16px/1.6 system-ui;background:#0a1838;color:#eef;margin:0}header,main,footer{max-width:760px;margin:auto;padding:20px}
+header{display:flex;justify-content:space-between;align-items:center}a{color:#4ff3ff}h1{color:#fff}nav a{margin-left:16px}footer{font-size:14px;color:#aac;border-top:1px solid #2d4a8a}
